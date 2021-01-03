@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "d6fd63ae5684d03882808a7ba873b241f040b2bd",
+    "author": "Aaron Wolen <aaron@wolen.com>",
+    "time": "2021-01-03 22:38:43",
+    "files": 5,
+    "merge": false,
+    "message": "Remove initial download vcr tests\n"
+  },
+  "remote": "https://github.com/ropensci/osfr",
+  "pkg": "osfr"
+}
