@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c4e3c446730b0b8145da8a920d208dd55ef2a761",
+    "author": "Aaron Wolen <aaron@wolen.com>",
+    "time": "2022-09-25 22:27:12",
+    "files": 2,
+    "merge": false,
+    "message": "Fix README  badges\n"
+  },
+  "repo": "https://github.com/ropensci/osfr",
+  "pkg": "osfr"
+}
