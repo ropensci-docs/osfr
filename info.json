@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "33d89f3370ea6e7691f6b055c080d7081e519a63",
+    "author": "Aaron Wolen <aaron@wolen.com>",
+    "time": "2026-03-07T17:13:24Z",
+    "files": 1,
+    "merge": false,
+    "message": "Add @noRd to the as_osf_tbl generic and its S3 methods\n"
+  },
+  "repo": "https://github.com/ropensci/osfr",
+  "pkg": "osfr",
+  "time": "2026-08-30T07:45:04Z"
+}
